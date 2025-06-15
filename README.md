@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Rijan Maharjan.<br>I’m interested in web development and Data Science<br>🌱 I’m currently learning python and JavaScript<br>🔭 I’m currently working on django
+Hi I'm Rijan Maharjan.<br>I’m interested in web development and Data Analysis<br>🌱 I’m currently learning python and JavaScript<br>🔭 I’m currently working on django
 
 
 ## 🌐 Socials:
